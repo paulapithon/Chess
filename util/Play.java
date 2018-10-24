@@ -1,0 +1,3 @@
+public enum Play {
+    SUCCESS, FAIL, INVALID, CAPTURED, CHECK, CHECKMATE;
+}
